@@ -1,5 +1,3 @@
-os
-sys
 seaborn==0.8.1
 pandas
 argparse
