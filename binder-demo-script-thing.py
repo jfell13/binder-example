@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import os
-import sys
+#import os
+#import sys
 import argparse
 import seaborn as sn
 import pandas as pd
